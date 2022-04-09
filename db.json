@@ -1,16 +1,21 @@
 {
-  "attributes": [
+  "tokens": [
+    
     {
-      "trait_type": "Background",
-      "value": "red-bg"
-    },
-    {
-      "trait_type": "Face",
-      "value": "smile-red"
-    }
-  ],
-  "description": "16 Smiles",
-  "id": 1,
-  "image": "https://nft-meta-data.s3.amazonaws.com/1.png",
-  "name": "Smiles #1"
-}
+      "description": "16 Smiles",
+      "id": 1,
+      "image": "https://nft-meta-data.s3.amazonaws.com/1.png",
+      "name": "Smiles #1",
+      "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "red-bg"
+      },
+     {
+        "trait_type": "Face",
+        "value": "smile-red"
+      }
+    ],
+  }
+  
+]
