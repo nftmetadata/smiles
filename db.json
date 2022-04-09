@@ -16,6 +16,20 @@
         "value": "smile-red"
       }
     ],
+  },{
+      "description": "16 Smiles",
+      "id": 2,
+      "image": "https://nft-meta-data.s3.amazonaws.com/2.png",
+      "name": "Smiles #2",
+      "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue-bg"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile-yellow"
+    }
+    ],
   }
-  
 ]
