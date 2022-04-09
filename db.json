@@ -1,40 +1,36 @@
 {
   "token": [
-    
     {
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "red-bg"
+        },
+        {
+          "trait_type": "Face",
+          "value": "smile-red"
+        }
+      ],
       "description": "16 Smiles",
-      "id": 1,
-      "image": "https://nft-meta-data.s3.amazonaws.com/1.png",
+      "edition": 1,
       "name": "Smiles #1",
+      "image": "https://nft-meta-data.s3.amazonaws.com/2.png"
+    },
+    {
       "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "red-bg"
-      },
-     {
-        "trait_type": "Face",
-        "value": "smile-red"
-      }
-    ]
-  },
-{
+        {
+          "trait_type": "Background",
+          "value": "blue-bg"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Smile-yellow"
+        }
+      ],
       "description": "16 Smiles",
-      "id": 2,
-      "image": "https://nft-meta-data.s3.amazonaws.com/2.png",
+      "edition": 2,
       "name": "Smiles #2",
-      "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "blue-bg"
-      },
-     {
-        "trait_type": "Face",
-        "value": "smile-yellow"
-      }
-    ]
-  }
-    
-    
-    
-]
+      "image": "https://nft-meta-data.s3.amazonaws.com/2.png"
+    }
+  ]
 }
