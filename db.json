@@ -15,7 +15,7 @@
         "trait_type": "Face",
         "value": "smile-red"
       }
-    ],
+    ]
   },{
       "description": "16 Smiles",
       "id": 2,
@@ -30,7 +30,7 @@
       "trait_type": "Face",
       "value": "Smile-yellow"
     }
-    ],
+    ]
+}
 ]
-  }
-
+}
