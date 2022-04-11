@@ -20,7 +20,7 @@
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "blue-bg"
+          "value": "red-bg"
         },
         {
           "trait_type": "Face",
@@ -28,8 +28,8 @@
         }
       ],
       "description": "16 Smiles",
-      "id": 2,
-      "name": "Smiles #2",
+      "id": 0,
+      "name": "Smiles #0",
       "image": "https://nft-meta-data.s3.amazonaws.com/2.png"
     }
   ]
