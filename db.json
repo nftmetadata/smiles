@@ -5,9 +5,6 @@
   "description": "Smiles * 16",
   "image": "https://openseacreatures.io/image.png",
   "external_link": "https://nft-meta-data.s3.amazonaws.com/13.png",
-  "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721",
-
-
   "token": [
     {
       "attributes": [
