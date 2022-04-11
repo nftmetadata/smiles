@@ -5,11 +5,11 @@
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "red-bg"
+          "value": "Red"
         },
         {
           "trait_type": "Face",
-          "value": "smile-yellow"
+          "value": "Yellow"
         }
       ],
       "description": "16 Smiles",
@@ -21,11 +21,11 @@
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "red-bg"
+          "value": "Green"
         },
         {
           "trait_type": "Face",
-          "value": "Smile-yellow"
+          "value": "Yellow"
         }
       ],
       "description": "16 Smiles",
