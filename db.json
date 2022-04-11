@@ -1,10 +1,4 @@
 {
-
-
-  "name": "Smiles * 16",
-  "description": "Smiles * 16",
-  "image": "https://openseacreatures.io/image.png",
-  "external_link": "https://nft-meta-data.s3.amazonaws.com/13.png",
   "token": [
     {
       "attributes": [
@@ -20,7 +14,7 @@
       "description": "16 Smiles",
       "id": 1,
       "name": "Smiles #1",
-      "image": "https://nft-meta-data.s3.amazonaws.com/3.png"
+      "image": "https://nft-meta-data.s3.amazonaws.com/10.png"
     },
     {
       "attributes": [
@@ -36,7 +30,7 @@
       "description": "16 Smiles",
       "id": 0,
       "name": "Smiles #0",
-      "image": "https://nft-meta-data.s3.amazonaws.com/2.png"
+      "image": "https://nft-meta-data.s3.amazonaws.com/4.png"
     }
   ]
 }
