@@ -1,6 +1,10 @@
 {
-"Name": "TOKEN COLECTION NAME",
-"description": "TOKEN COLLECTION DESCRIPTION",
-"seller_fee_basis_points": 3000,
-"fee_recipient": "0x01ce0c2672f4c9e0926b87d3e14c29d4e37d414c"
+  "token": {
+    "Name": "TOKEN COLECTION NAME",
+    "description": "TOKEN COLLECTION DESCRIPTION",
+    "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "external_link": "https://google.com",
+    "seller_fee_basis_points": 3000,
+    "fee_recipient": "0x01ce0c2672f4c9e0926b87d3e14c29d4e37d414c"
+  }
 }
