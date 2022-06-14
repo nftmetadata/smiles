@@ -1,7 +1,8 @@
 {
-
   "token": [
     {
+    "Name": "TOKEN COLECTION NAME",
+    "description": "TOKEN COLLECTION DESCRIPTION",      
     "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
     "external_link": "https://google.com",
     "seller_fee_basis_points": 3000,
