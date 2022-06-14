@@ -1,10 +1,8 @@
 {
-	"name": "OpenSea Creatures",
-	"description": "OpenSea Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
-	"image": "https://openseacreatures.io/image.png",
-	"external_link": "https://openseacreatures.io",
+	"name": "Yes",
+	"description": "Yeah.",
 	"seller_fee_basis_points": "100",
-	"fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721",
+	"fee_recipient": "0x01ce0c2672f4c9e0926b87d3e14c29d4e37d414c",
 
   "token": [
     {
