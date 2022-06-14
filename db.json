@@ -16,22 +16,6 @@
          "id":1,
          "name":"Smiles #1",
          "image":"https://nft-meta-data.s3.amazonaws.com/16.png"
-      },
-      {
-         "attributes":[
-            {
-               "trait_type":"Background",
-               "value":"Green"
-            },
-            {
-               "trait_type":"Face",
-               "value":"Yellow"
-            }
-         ],
-         "description":"16 Smiles",
-         "id":0,
-         "name":"Smiles #0",
-         "image":"https://nft-meta-data.s3.amazonaws.com/6.png"
       }
    ]
 }
